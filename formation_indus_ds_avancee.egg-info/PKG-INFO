@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: formation_indus_ds_avancee
+Version: 1.2
+Summary: Package pour le TP de la formation industrialisation de la data science avancée
+Home-page: 
+Author: OCTO
+Author-email: 
+License-File: LICENSE
+Requires-Dist: pandas==2.1.4
+Requires-Dist: pyarrow==15.0.2
+Requires-Dist: scikit-learn==1.2.2
+Requires-Dist: joblib==1.2.0
+Requires-Dist: sqlalchemy==1.4.46
+Requires-Dist: psycopg2-binary==2.9.5
+Requires-Dist: streamlit==1.23.1
+Requires-Dist: apache-airflow==2.8.4
+Requires-Dist: mlflow==2.11.3
+Requires-Dist: werkzeug==2.2.2
+Requires-Dist: protobuf==3.20.3

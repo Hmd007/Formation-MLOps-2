@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+formation_indus_ds_avancee/__init__.py
+formation_indus_ds_avancee/data_loading.py
+formation_indus_ds_avancee/feature_engineering.py
+formation_indus_ds_avancee/train_and_predict.py
+formation_indus_ds_avancee.egg-info/PKG-INFO
+formation_indus_ds_avancee.egg-info/SOURCES.txt
+formation_indus_ds_avancee.egg-info/dependency_links.txt
+formation_indus_ds_avancee.egg-info/requires.txt
+formation_indus_ds_avancee.egg-info/top_level.txt
